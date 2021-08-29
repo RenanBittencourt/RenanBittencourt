@@ -20,9 +20,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 - :chart_with_upwards_trend: Estatísticas:
-<div>
-  <a href="https://github.com/RenanBittencourt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanBittencourt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBittencourt&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
+![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanBittencourt&hide=contribs&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBittencourt&layout=compact&theme=dark)](https://github.com/RenanBittencourt/github-readme-stats)
 
