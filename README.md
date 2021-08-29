@@ -1,4 +1,4 @@
-### Olá, Bem Vindos, 👋
+### Bem vindo ao meu portfólio! 👋
 
 - :books: Conhecimentos:
 - :floppy_disk: Intermediário:
